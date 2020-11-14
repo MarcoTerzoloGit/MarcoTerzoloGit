@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Playing around with github ReadMe-in-profile feature!
+
 <!--
 **MarcoTerzoloGit/MarcoTerzoloGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
