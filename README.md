@@ -1,18 +1,14 @@
-### Hi there 👋
+### Software developer | Front end specialist | ANGULAR - REACT - REACT NATIVE
 
-Playing around with github ReadMe-in-profile feature!
+Passionate developer with an eye on project management, in love with Javascript (mostly Typescript).
 
-<!--
-**MarcoTerzoloGit/MarcoTerzoloGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on professional dashboard configurators focused on industry 4.0,
+warehouse managament systems UI and 3D visualization of realtime data.
 
-Here are some ideas to get you started:
+On my free time i keep myself updated and exepriment new technologies and try to develop my ideas with a group of friends. Some are outstanding developers, some are juniors taught by me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love teaching and managing alongside developing code. In fact in my free time i manage the group in an agile-like way, to reach the goals we decided together making every single hour count! (we have really little free time!)
+
+Much part of my free time is dedicated to my family. The most important project i've been involved in my life.
+
+You can reach me on linkedin: https://www.linkedin.com/in/marco-terzolo-ab724465/
