@@ -11,4 +11,4 @@ I love teaching and managing alongside developing code. In fact in my free time 
 
 Much part of my free time is dedicated to my family. The most important project i've been involved in my life.
 
-You can reach me on linkedin: https://www.linkedin.com/in/marco-terzolo-ab724465/
+You can reach me on linkedin: https://www.linkedin.com/in/terzolo-marco/
