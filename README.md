@@ -1,4 +1,4 @@
-### Software developer | Front end specialist | ANGULAR - REACT - REACT NATIVE
+### Software developer | Scrum master | Front end specialist | ANGULAR - REACT - REACT NATIVE - AGILE
 
 Passionate developer with an eye on project management, in love with Javascript (mostly Typescript).
 
